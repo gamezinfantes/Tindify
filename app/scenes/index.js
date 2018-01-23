@@ -1,0 +1,5 @@
+export { default as Chat } from './chat/chat'
+export { default as Home } from './home/home'
+export { default as Main } from './main/main'
+export { default as Messages } from './messages/messages'
+export { default as Profile } from './profile/profile'
